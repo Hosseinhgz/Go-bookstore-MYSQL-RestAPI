@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/Hosseinhgz/Go-bookstore-MYSQL-RestAPI/pkg/config"
+	"github.com/github.com/Hosseinhgz/Go-bookstore-MYSQL-RestAPI/pkg/config"
 	"github.com/jinzhu/gorm"
 )
 

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/Hosseinhgz/Go-bookstore-MYSQL-RestAPI/pkg/controllers"
+	"github.com/github.com/Hosseinhgz/Go-bookstore-MYSQL-RestAPI/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 

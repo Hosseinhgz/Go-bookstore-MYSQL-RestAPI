@@ -4,10 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Hosseinhgz/Go-bookstore-MYSQL-RestAPI/pkg/routes"
 	"github.com/github.com/Hosseinhgz/Go-bookstore-MYSQL-RestAPI/pkg/routes"
 	"github.com/gorilla/mux"
-	_ "github.com/jinzu/gorm/dialects/mysql"
+	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
 
 func main() {
